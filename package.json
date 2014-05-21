@@ -1,0 +1,12 @@
+{
+  "name": "sitezip",
+  "version": "0.0.1",
+  "private": true,
+  "bin": {
+    "sitezip-mocker": "liquid.js"
+  },
+  "dependencies": {
+    "express": "3.0.0rc1",
+    "express-liquid": "~0.2.5"
+  }
+}
